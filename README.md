@@ -1,19 +1,17 @@
 
 <div align="center">
   <h1>Hi 👋, I'm Amin</h1>
-  <h3>Backend Developer | Django Enthusiast | SaaS Projects</h3>
+  <h3>Backend Developer</h3>
 </div>
 
 <br>
 
 ## 💼 About Me
 I'm a passionate **Backend Developer** with **2 years of experience working with Django**.  
-I specialize in building **robust and scalable web applications** using **Python 🐍, Django 💚, Django REST Framework ⚡, and PostgreSQL 🐘**.  
+I specialize in building **robust and scalable web applications** using **Python 🐍, Django 💚, Django REST Framework ⚡**.  
 
 I also have experience with **JavaScript ✨, REST APIs 🌐, and modern web development practices**.  
 I love creating **clean, maintainable, and efficient code**, and I'm always exploring new tools and technologies to improve my projects.  
-
-Currently focusing on **SaaS platforms ☁️, efficient backend systems ⚙️, and real-world web applications 🌟**.
 
 <img src="https://raw.githubusercontent.com/mohammadaminbagheri/mohammadaminbagheri/output/snake.svg" alt="Snake animation" />
 
